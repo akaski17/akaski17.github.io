@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "0519.png"
   name             : "Jianwei Zuo"
   pronouns         : # example: "she/her"  
   bio              : "Interesting"
